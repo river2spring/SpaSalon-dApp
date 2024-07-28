@@ -39,3 +39,8 @@ contract SpaAppointment {
         return feedbacks[_treatmentId];
     }
 }
+
+//contract address	0x06b170ecfa12ec035f139ba80e76a9ca9b896069
+
+
+
