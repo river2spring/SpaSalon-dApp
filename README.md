@@ -3,9 +3,11 @@ Final Project for Build On Scroll Bootcamp
 
 Problem or Opportunity
 Problem: A spa salon is about to lose a lot of its customers due to a privacy problem. When you apply from their website, everyone can see which treatment you apply for and most of the patients do not want to share their skin problems publicly. This problem decreases the salon’s profit.
+
 Opportunity: Creating a decentralized appointment system that ensures privacy using Zero Knowledge Proofs (ZKPs), while still allowing the salon to showcase the popularity of its treatments.
 
 ~ Key Features and Functionality ~
+
 Anonymous Appointment Booking:
 Users can book treatments without revealing their identities.
 
@@ -23,6 +25,7 @@ Allow customers to leave feedback and ratings anonymously.
 
 
 ~ Smart Contract Design ~ 
+
 Appointment Booking:
 Store booking details without revealing customer identities.
 
